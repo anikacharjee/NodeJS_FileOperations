@@ -7,8 +7,7 @@ Here are the steps to execute the code using Postman:
 
 Make sure your Node.js server is running. If not, go to the project folder in the terminal and run:
 
-*node filename.js*
-
+`node filename.js`
 
 The server should start, and you should see a message indicating that it's running on http://localhost:3000.
 
@@ -20,9 +19,9 @@ The server should start, and you should see a message indicating that it's runni
    - Enter the URL: `http://localhost:3000/createFile`.
    - Go to the "Body" tab, select `raw`, and enter the JSON payload:
 
-     *{
+     `{
        "text": "Hello, this is the initial text."
-     }*
+     }`
 
    - Click on "Send" to execute the request.
 
