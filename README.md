@@ -1,6 +1,8 @@
 # NodeJS_FileOperations
 Using NodeJS, performing all file operations.
 
+# Make sure, you are installing the necessary dependencies:- `npm install express body-parser`
+
 Here are the steps to execute the code using Postman:
 
 # Step 1: Run the Server
